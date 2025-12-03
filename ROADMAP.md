@@ -1,3 +1,209 @@
+# 2026 CDM Community Roadmap 
+
+
+
+<table>
+  <tr>
+    <th style="width: 12%;background:#fafafa;border:1px solid #ddd;">Working Group<br>Chair</th>
+    <th style="width: 22%;">1Q 2026</th>
+    <th style="width: 22%;">2Q 2026</th>
+    <th style="width: 22%;">3Q 2026</th>
+    <th style="width: 22%;">4Q 2026</th>
+  </tr>
+  <tr>
+    <td><b>Steering WG</b><br>David Shone</td>
+    　<td><ul>
+        <li>Annual Review of governance</li>
+        <li>Establish release schedule</li>
+       <li>Agree 2026 roadmap</li>
+       <li>Share TOM and adoption strategies</li>
+       <li>Agree objectives 2026</li>
+      </ul></td>
+      <td><ul>
+        <li>BAU </li>
+      </ul></td>
+      <td><ul>
+        <li>BAU </li>
+        <li>Nominations for Chair from Jan 2027 </li>
+      </ul></td>
+      <td><ul>
+        <li>BAU </li>
+        <li>Vote / appoint Chair from Jan 2027 </li>
+        <li>Agree & publish Roadmap for 2027 </li>
+      </ul></td>
+     </tr>
+  <tr>
+    <td><b>Technical Architecture WG</b><br>tba</td>
+    　<td><ul>
+       <li>1</li>
+      <li>2</li>
+       <li>3</li>
+       <li>4</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+     </tr>
+  </tr>
+    <tr>
+    <td><b>Contribution Review WG</b><br>Rotating</td>
+    　<td><ul>
+       <li>1</li>
+      <li>2</li>
+       <li>3</li>
+       <li>4</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+     </tr>
+  </tr>
+    <tr>
+    <td><b>Collateral WG</b><br>Vernon Alden-Smith</td>
+    　<td><ul>
+       <li>1</li>
+      <li>2</li>
+       <li>3</li>
+       <li>4</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+     </tr>
+  </tr>
+    <tr>
+    <td><b>Securities Lending WG</b><br>Chris Rayner</td>
+    　<td><ul>
+       <li>1</li>
+      <li>2</li>
+       <li>3</li>
+       <li>4</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+     </tr>
+  </tr>
+    <tr>
+    <td><b>Derivatives WG</b><br>Lyteck Lynhiavu</td>
+    　<td><ul>
+       <li>1</li>
+      <li>2</li>
+       <li>3</li>
+       <li>4</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+     </tr>
+  </tr>
+    <tr>
+    <td><b>ICMA Repo & Bonds WG</b><br>Gabriel Callsen</td>
+    　<td><ul>
+       <li>1</li>
+      <li>2</li>
+       <li>3</li>
+       <li>4</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+     </tr>
+  </tr>
+    <tr>
+    <td><b>ISDA Legal Agreement WG</b><br>Vernon Alden-Smith</td>
+    　<td><ul>
+       <li>1</li>
+      <li>2</li>
+       <li>3</li>
+       <li>4</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+     </tr>
+  </tr>
+    <tr>
+    <td><b>ISDA DRR WG WG</b><br>Tabish Ahmed</td>
+    　<td><ul>
+       <li>1</li>
+      <li>2</li>
+       <li>3</li>
+       <li>4</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+      <td><ul>
+        <li>1 </li>
+        <li>2</li>
+      </ul></td>
+     </tr>
+  </tr>
+</table>
+
+
+
 # 2025 CDM Roadmap from FINOS, ICMA, ISDA, & ISLA
 
 ![](.github/cdm-roadmap-2025-1.png)
