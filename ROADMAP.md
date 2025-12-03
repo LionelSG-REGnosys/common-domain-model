@@ -16,8 +16,8 @@
         <li>Annual Review of governance</li>
         <li>Establish release schedule</li>
        <li>Agree 2026 roadmap</li>
-       <li>Share TOM and adoption strategies</li>
-       <li>Agree objectives 2026</li>
+       <li>Re-ratify TOM</li>
+       <li>Agree objectives 2026+</li>
       </ul></td>
       <td><ul>
         <li>BAU </li>
@@ -35,147 +35,95 @@
   <tr>
     <td><b>Technical Architecture WG</b><br>tba</td>
     　<td><ul>
-       <li>1</li>
-      <li>2</li>
-       <li>3</li>
-       <li>4</li>
+       <li>Python generator upgrade to handle functions
+       <li>Prioritised items from SWG November 2025</li>
       </ul></td>
       <td><ul>
-        <li>1 </li>
+        <li>Python generator upgrade to handle functions</li>
+        <li>Serialisation- Ph2/3 (Backward/Forward Compatibility)</li>
+        <li>Prioritised items from SWG November 2025</li>
       </ul></td>
       <td><ul>
-        <li>1 </li>
-        <li>2</li>
+        <li>Serialisation- Ph2/3 (Backward/Forward Compatibility)</li>
+        <li>Prioritised items from SWG November 2025</li>
       </ul></td>
       <td><ul>
-        <li>1 </li>
-        <li>2</li>
+        <li>Serialisation- Ph2/3 (Backward/Forward Compatibility)</li>
+        <li>Prioritised items from SWG November 2025</li>
       </ul></td>
      </tr>
   </tr>
     <tr>
     <td><b>Contribution Review WG</b><br>Rotating</td>
     　<td><ul>
-       <li>1</li>
-      <li>2</li>
-       <li>3</li>
-       <li>4</li>
+       <li>CDM7.0 Release- end Feb</li>
+       <li>Continued managed release service</li>
+       <li>BAU </li>
       </ul></td>
       <td><ul>
-        <li>1 </li>
+       <li>Continued managed release service</li>
+       <li>BAU </li>
       </ul></td>
       <td><ul>
-        <li>1 </li>
-        <li>2</li>
+       <li>Continued managed release service</li>
+       <li>BAU </li>
       </ul></td>
       <td><ul>
-        <li>1 </li>
-        <li>2</li>
+       <li>Continued managed release service</li>
+       <li>BAU </li>
       </ul></td>
      </tr>
   </tr>
     <tr>
     <td><b>Collateral WG</b><br>Vernon Alden-Smith</td>
     　<td><ul>
-       <li>1</li>
-      <li>2</li>
-       <li>3</li>
-       <li>4</li>
+       <li>Deliver outstanding test packs for IM/VM</li>
+       <li>Contribute CSA amendments</li>
+       <li>ECS extensions identified by community</li>
       </ul></td>
       <td><ul>
-        <li>1 </li>
+        <li>Develop CSA implementation guide for compkles causes</li>
       </ul></td>
       <td><ul>
-        <li>1 </li>
-        <li>2</li>
+        <li>Develop functions for collateral workflows</li>
       </ul></td>
       <td><ul>
-        <li>1 </li>
-        <li>2</li>
+        <li>TBC</li>
       </ul></td>
      </tr>
   </tr>
     <tr>
     <td><b>Securities Lending WG</b><br>Chris Rayner</td>
-    　<td><ul>
-       <li>1</li>
-      <li>2</li>
-       <li>3</li>
-       <li>4</li>
-      </ul></td>
-      <td><ul>
-        <li>1 </li>
-      </ul></td>
-      <td><ul>
-        <li>1 </li>
-        <li>2</li>
-      </ul></td>
-      <td><ul>
-        <li>1 </li>
-        <li>2</li>
+    　<td colspan="4" ><ul>
+       <li>Lifecycle development & contributions</li>
+       <li>DRR dependencies for SFTR</li>
+       <li>CDM Best Practices for Securities Lending</li>
       </ul></td>
      </tr>
   </tr>
     <tr>
     <td><b>Derivatives WG</b><br>Lyteck Lynhiavu</td>
-    　<td><ul>
-       <li>1</li>
-      <li>2</li>
-       <li>3</li>
-       <li>4</li>
-      </ul></td>
-      <td><ul>
-        <li>1 </li>
-      </ul></td>
-      <td><ul>
-        <li>1 </li>
-        <li>2</li>
-      </ul></td>
-      <td><ul>
-        <li>1 </li>
-        <li>2</li>
+    　<td colspan="4" ><ul>
+        <li>Member modelling proposals</li>
+        <li>Product expansion for DRR</li>
       </ul></td>
      </tr>
   </tr>
     <tr>
     <td><b>ICMA Repo & Bonds WG</b><br>Gabriel Callsen</td>
-    　<td><ul>
-       <li>1</li>
-      <li>2</li>
-       <li>3</li>
-       <li>4</li>
-      </ul></td>
-      <td><ul>
-        <li>1 </li>
-      </ul></td>
-      <td><ul>
-        <li>1 </li>
-        <li>2</li>
-      </ul></td>
-      <td><ul>
-        <li>1 </li>
-        <li>2</li>
+    　<td colspan="4" ><ul>
+        <li>Develop SFTR reporting model and functions</li>
+        <li>Expand bond/debt/security coverage and related events</li>
+        <li>Expand domain specific helper functions</li>
+        <li>CDM training and implementation sessions</li>
+        <li>On-going support and adoption projects</li>
       </ul></td>
      </tr>
   </tr>
     <tr>
     <td><b>ISDA Legal Agreement WG</b><br>Vernon Alden-Smith</td>
-    　<td><ul>
-       <li>1</li>
-      <li>2</li>
-       <li>3</li>
-       <li>4</li>
-      </ul></td>
-      <td><ul>
-        <li>1 </li>
-      </ul></td>
-      <td><ul>
-        <li>1 </li>
-        <li>2</li>
-      </ul></td>
-      <td><ul>
-        <li>1 </li>
-        <li>2</li>
+    　<td colspan="4" ><ul>
+       <li>ISDA Document contributions (Community led)</li>
       </ul></td>
      </tr>
   </tr>
