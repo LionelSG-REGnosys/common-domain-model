@@ -130,21 +130,22 @@
     <tr>
     <td><b>ISDA DRR WG WG</b><br>Tabish Ahmed</td>
     　<td><ul>
-       <li>1</li>
-      <li>2</li>
-       <li>3</li>
-       <li>4</li>
+       <li>SEC</li>
+      <li>ReportableInformation improvements</li>
       </ul></td>
       <td><ul>
-        <li>1 </li>
+        <li>SFTR (led by ISLA & ICMA)</li>
+        <li>Strate</li>
+        <li>Traceability Tool</li>
+        <li>ReportableInformation improvements</li>
       </ul></td>
       <td><ul>
-        <li>1 </li>
-        <li>2</li>
+        <li>MiFiR EU build</li>
+        <li>Strate</li>
+        <li>Traceability Tool</li>
       </ul></td>
       <td><ul>
-        <li>1 </li>
-        <li>2</li>
+        <li>MiFiR EU UAT</li>
       </ul></td>
      </tr>
   </tr>
