@@ -14,6 +14,42 @@ This is a draft to be presented on the next Steering Working Group in September
 
 See definitions below.
 
+## 2026/27 Timeline
+
+## 2026/27 Timeline
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'taskTextColor':'#ffffff','activeTaskBkgColor':'#3b82f6','activeTaskBorderColor':'#2563eb','taskBkgColor':'#22c55e','taskBorderColor':'#16a34a','critBkgColor':'#f59e0b','critBorderColor':'#d97706','doneTaskBkgColor':'#94a3b8','doneTaskBorderColor':'#64748b','gridColor':'#e2e8f0'},'gantt':{'displayMode':'compact','barHeight':34,'barGap':6,'leftPadding':80}}}%%
+gantt
+    title CDM Version Lifecycle 2026/27
+    dateFormat YYYY-MM-DD
+    axisFormat %b %y
+
+    section CDM 5
+    EOL         :done, 2026-06-01, 2026-07-01
+
+    section CDM 6
+    Current     :2026-06-01, 2026-07-01
+    Maintenance :crit, 2026-07-01, 2027-07-01
+    EOL         :done, 2027-07-01, 2027-08-01
+
+    section CDM 7
+    Preview     :active, 2026-06-01, 2026-07-01
+    Current     :2026-07-01, 2027-07-01
+    Maintenance :crit, 2027-07-01, 2027-08-01
+
+    section CDM 8
+    Preview     :active, 2026-07-01, 2027-07-01
+    Current     :2027-07-01, 2027-08-01
+
+    section CDM 9
+    Preview     :active, 2027-07-01, 2027-08-01
+```
+
+**Legend:** 🟦 Preview · 🟩 Current · 🟧 Maintenance · ⬜ End of life
+
+**Legend:** 🟦 Preview · 🟩 Current · 🟧 Maintenance · ⬜ End of life
+
 # Release States
 
 Release states are defined as follows:
